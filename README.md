@@ -6,7 +6,11 @@ If you like the project, please do not forget to star ★ this repository and fo
 
 ## Preview 
 
-![Preview of Floating Alert](/Graphics/FloatingAlert.gif)
+<table style="border:none">
+  <tr>
+    <td><img src="/Graphics/FloatingAlert.gif" width="200" height="400"></td>
+  </tr>
+</table>
 
 ## Requirements
 
