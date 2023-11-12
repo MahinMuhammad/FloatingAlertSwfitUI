@@ -4,20 +4,17 @@
 import PackageDescription
 
 let package = Package(
-    name: "FloatingAlertSwfitUI",
+    name: "FloatingAlert",
+    platforms: [
+        .iOS(.v13)
+    ],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "FloatingAlertSwfitUI",
-            targets: ["FloatingAlertSwfitUI"]),
+            name: "FloatingAlert",
+            targets: ["FloatingAlert"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "FloatingAlertSwfitUI"),
-        .testTarget(
-            name: "FloatingAlertSwfitUITests",
-            dependencies: ["FloatingAlertSwfitUI"]),
+            name: "FloatingAlert"),
     ]
 )
