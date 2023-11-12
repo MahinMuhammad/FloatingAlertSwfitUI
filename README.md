@@ -6,11 +6,11 @@ If you like the project, please do not forget to star ★ this repository and fo
 
 ## Preview 
 
-<table style="border:none">
-  <tr>
-    <td><img src="/Graphics/FloatingAlert.gif" width="200" height="400"></td>
-  </tr>
-</table>
+
+
+https://github.com/MahinMuhammad/FloatingAlertSwfitUI/assets/83515380/074d6500-5a7d-417b-b9a8-8cfa65c6cd06
+
+
 
 ## Requirements
 
