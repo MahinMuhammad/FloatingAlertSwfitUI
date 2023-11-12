@@ -18,6 +18,7 @@ https://github.com/MahinMuhammad/FloatingAlertSwfitUI/assets/83515380/074d6500-5
 * Xcode 11.2+
 * Swift 5.0
 * SwiftUI framework
+* swift-tools-version: 5.9
 
 ##Features
 

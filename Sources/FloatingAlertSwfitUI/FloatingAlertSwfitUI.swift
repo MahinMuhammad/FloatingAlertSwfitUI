@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct FloatingAlertView: View {
+public struct FloatingAlertView: View {
     @Binding var showingNotice: Bool
     let image:Image?
     let message:String
